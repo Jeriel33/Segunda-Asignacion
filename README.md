@@ -24,7 +24,7 @@ La página incluye:
 ## 🌐 Visualiza la página en línea
 Puedes ver la página publicada en **GitHub Pages** en el siguiente enlace:  
 
-👉 [Ver página aquí](https://TU-USUARIO.github.io/segunda-asignacion/segunda_asignacion.html)
+👉 [Ver página aquí]( https://jeriel33.github.io/Segunda-Asignacion/ 
 
 ---
 
