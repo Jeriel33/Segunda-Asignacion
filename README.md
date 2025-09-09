@@ -26,8 +26,6 @@ Puedes ver la página publicada en **GitHub Pages** en el siguiente enlace:
 
 👉 [Ver página aquí](https://TU-USUARIO.github.io/segunda-asignacion/segunda_asignacion.html)
 
-*(Reemplaza `TU-USUARIO` por tu nombre de usuario en GitHub).*
-
 ---
 
 ## 📝 Autor
