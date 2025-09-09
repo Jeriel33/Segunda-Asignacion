@@ -24,9 +24,9 @@ La página incluye:
 ## 🌐 Visualiza la página en línea
 Puedes ver la página publicada en **GitHub Pages** en el siguiente enlace:  
 
-👉 [Ver página aquí]( https://jeriel33.github.io/Segunda-Asignacion/ 
+👉 ver pagina en repositorio de github:  https://jeriel33.github.io/Segunda-Asignacion/ 
 
-https://jeriel33.github.io/Segunda-Asignacion/segunda_asignacion.html
+ver la pagina oficial de la tarea: https://jeriel33.github.io/Segunda-Asignacion/segunda_asignacion.html
 ---
 
 ## 📝 Autor
